@@ -1,0 +1,20 @@
+{
+  "name": "metrics-lp",
+  "version": "1.0.0",
+  "description": "Landing page built entirely with React, Node, CSS, HTML, and vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/okeuguru/metrics-lp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/okeuguru/metrics-lp/issues"
+  },
+  "homepage": "https://github.com/okeuguru/metrics-lp#readme"
+}
