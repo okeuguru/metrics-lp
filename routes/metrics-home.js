@@ -1,5 +1,5 @@
 const path = require("path")
-const rootDir = require(",,/util/paths")
+const rootDir = require("../util/paths")
 
 const express = require("express")
 
